@@ -1,1 +1,1 @@
-# git-course
+# hello-git
